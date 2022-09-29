@@ -111,7 +111,7 @@ relationships therein.
 ### Completeness
 
 A *complete* model is a model which fully reconstructs all the 
-features the phenomenon it represents. Any information which can be 
+features of the phenomenon it represents. Any information which can be 
 had about the phenomenon has a corresponding entity, property, 
 relationship, or rule which represents that information in the model. 
 Note that this is an ideal scenario. Mental models in the real world 
