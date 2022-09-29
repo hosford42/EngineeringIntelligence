@@ -1,3 +1,5 @@
+[Back to README](README.md)
+
 # Credits
 
 If you contribute a pull request and want explicit credit for your 

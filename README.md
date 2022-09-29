@@ -1,3 +1,5 @@
+[Skip to Articles](README.md#articles)
+
 # Engineering Intelligence
 
 This work is licensed under a
@@ -43,6 +45,22 @@ concrete. We are not here to debate whether it's possible,
 whether it will have a soul, whether it will be humanity's
 savior or devil. We are here to make it possible and ensure
 that it works safely, effectively, and as intended.
+
+
+## Table of Contents
+
+### Meta
+
+* [README](README.md)  (this file) 
+* [Planned Articles](PlannedArticles.md)
+* [Credits](Credits.md)
+
+
+### Articles
+* [An Informal Definition of Intelligence](Articles/AnInformalDefinitionOfIntelligence.md)
+
+
+
 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/

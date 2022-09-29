@@ -1,3 +1,6 @@
+[Back to README](README.md)
+
+
 # Topics for Future Articles
 
 * **Alternative Definitions of Intelligence**: A list of other, competing

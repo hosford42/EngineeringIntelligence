@@ -1,6 +1,10 @@
+[Back to Articles](../README.md#articles)
+
+
 # An Informal Definition of Intelligence
 
 *by Aaron Hosford*
+
 
 
 ### Introduction
