@@ -1,0 +1,36 @@
+## Introduction
+
+This project is an original work, detailing a novel theory of 
+intelligence. Its purpose is to clearly define intelligence in
+such a way that the design requirements for a working general 
+intelligence (or human-level intelligence, if you prefer) can 
+be specified in sufficient detail and clarity to implement an
+initial working implementation and appropriate measures of
+performance. I am just starting the conversation. I will attempt
+to begin from an initial, informal concept of what intelligence 
+is and does, and move gradually towards a clear, formal
+mathematical definition. I hope you will find the conversation
+fascinating enough to join in.
+
+
+## Contributing
+
+I welcome feedback and debate. Please open an issue if you 
+wish to contribute. Suggest modifications, point out flaws,
+ask for additional features, submit pull requests... Almost
+anything you might do with a software application can be
+applied similarly to an informal or formal definition. I 
+will attempt to keep issues open until all participants are
+satisfied with the conclusion, provided I believe they are
+opened in good faith.
+
+Just please remember: **This is an *engineering* approach 
+to general intelligence.** Woo, fantasy, and other 
+ungrounded quasi-reasoning is not appropriate content for 
+this venue. By all means, imagine and project when there
+things are too abstract or ill-defined to be concrete, but
+do it for the purpose of *making* things well-defined and
+concrete. We are not here to debate whether it's possible,
+whether it will have a soul, whether it will be humanity's
+savior or devil. We are here to make it possible and ensure
+that it works safely, effectively, and as intended.
