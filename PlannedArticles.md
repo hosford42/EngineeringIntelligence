@@ -7,6 +7,9 @@
   definitions of intelligence. These will hopefully each offer some
   kernel of truth or novel perspective which will help to move the
   discussion forward.
+* **CToI's Relationship to CToT**: An exposition on the close
+  relationship between the correspondence theory of intelligence and the 
+  correspondence theory of truth (or knowledge).
 * **A Formal Definition of Intelligence**: A formalization of the ideas
   proposed in "An Informal Definition Of Intelligence".
 * **How to Construct a Mind**: How do we implement a system that models 
