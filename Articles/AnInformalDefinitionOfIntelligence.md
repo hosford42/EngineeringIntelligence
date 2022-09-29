@@ -1,5 +1,18 @@
 # An Informal Definition of Intelligence
 
+*by Aaron Hosford*
+
+
+### Introduction
+
+In this article, I introduce a novel theory of intelligence, which I 
+call the Correspondence Theory of Intelligence, or CToI, and the
+thought processes which lead me to this understanding of the nature
+of intelligence. While the explanation here is highly informal, the
+ultimate goal is to reach a precise, formal definition of general
+intelligence, which will make it possible to actually build it in
+software.
+
 
 ### Asking the Hard Questions
 
