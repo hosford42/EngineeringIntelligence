@@ -182,7 +182,7 @@ What about the new, fancy, GPT-3 language model (using the machine
 learning sense of "model", not the one used in the rest of this
 article) that OpenAI recently released? (It's September 2022 as I'm 
 writing this.) Some folks have been touting GPT-3 as a possible 
-artificial general intelligence? It was trained on so much data that 
+artificial general intelligence. It was trained on so much data that 
 it has learned the probability distribution of natural language to a 
 greater degree than any ML model before it, and can sometimes 
 generate entire articles that are consistent from start to finish.
