@@ -3,10 +3,6 @@
 
 # Topics for Future Articles
 
-* **Alternative Definitions of Intelligence**: A list of other, competing
-  definitions of intelligence. These will hopefully each offer some
-  kernel of truth or novel perspective which will help to move the
-  discussion forward.
 * **CToI's Relationship to CToT**: An exposition on the close
   relationship between the correspondence theory of intelligence and the 
   [correspondence theory of truth (or knowledge)].
