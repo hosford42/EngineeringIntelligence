@@ -5,7 +5,16 @@
 
 * **CToI's Relationship to CToT**: An exposition on the close
   relationship between the correspondence theory of intelligence and the 
-  [correspondence theory of truth (or knowledge)].
+  [correspondence theory of truth (or knowledge)]. Mainly, CToT attempts
+  to answer the question, "What is the relationship between truth or
+  knowledge and reality?" whereas CToI attempts to answer the question,
+  "How can we build a system capable of determining truth or acquiring
+  knowledge for itself?" The answers are remarkably similar, but CToI
+  begs us to answer in much greater detail and move beyond hypotheticals.
+  If CToI allows us to engineer a demonstrably intelligent mind, it will
+  lend a lot more credibility to CToT as a valid perspective. Why CToT
+  as a starting point for engineering intelligence? Because unlike other
+  competing theories, it offers clear mechanisms for implementation.
 * **A Formal Definition of Intelligence**: A formalization of the ideas
   proposed in "An Informal Definition Of Intelligence".
 * **How to Construct a Mind**: How do we implement a system that models 
