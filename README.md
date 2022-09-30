@@ -38,7 +38,7 @@ opened in good faith.
 Just please remember: **This is an *engineering* approach 
 to general intelligence.** Woo, fantasy, and other 
 ungrounded quasi-reasoning is not appropriate content for 
-this venue. By all means, imagine and project when there
+this venue. By all means, imagine and project when
 things are too abstract or ill-defined to be concrete, but
 do it for the purpose of *making* things well-defined and
 concrete. We are not here to debate whether it's possible,
