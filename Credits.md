@@ -9,3 +9,5 @@ contributed to the end of this list.
 * Created project: Aaron Hosford, 2022-09-26
 * Wrote "An Informal Definition of Intelligence": 
   Aaron Hosford, 2022-09-26
+* Composed "Alternative Definitions of Intelligence":
+  Aaron Hosford, 2022-09-29
