@@ -14,7 +14,25 @@
 * **How to Measure Intelligence**: An informal discussion of possible
   ways to assess the presence and performance of intelligence in a 
   general intelligence system.
+* **Ways Intelligence Can Fail**: A broad look at general failure modes
+  that intelligent systems can experience. A good start might be to look
+  over lists of [mental health problems], [cognitive errors], [cognitive
+  distortions], [cognitive biases], etc. that human beings can run into.
+  (Not all of these will apply to a machine intelligence, of course,
+  unless we intentionally design it to emulate us as closely as possible.)
 
 
 [correspondence theory of truth (or knowledge)]: 
 https://en.wikipedia.org/wiki/Correspondence_theory_of_truth
+
+[mental health problems]:
+https://www.mind.org.uk/information-support/types-of-mental-health-problems/
+
+[cognitive errors]: 
+https://www.merckmanuals.com/professional/special-subjects/clinical-decision-making/cognitive-errors-in-clinical-decision-making
+
+[cognitive distortions]:
+https://positivepsychology.com/cognitive-distortions/
+
+[cognitive biases]:
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
