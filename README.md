@@ -42,8 +42,8 @@ this venue. By all means, imagine and project when
 things are too abstract or ill-defined to be concrete, but
 do it for the purpose of *making* things well-defined and
 concrete. We are not here to debate whether it's possible,
-whether it will have a soul, whether it will be humanity's
-savior or devil. We are here to make it possible and ensure
+whether it will have a soul, or whether it will be humanity's
+savior or destroyer. We are here to make it possible and ensure
 that it works safely, effectively, and as intended.
 
 
