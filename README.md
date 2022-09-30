@@ -58,7 +58,7 @@ that it works safely, effectively, and as intended.
 
 ### Articles
 * [An Informal Definition of Intelligence](Articles/AnInformalDefinitionOfIntelligence.md)
-
+* [Alternative Definitions of Intelligence](Articles/AlternativeDefinitionsOfIntelligence.md)
 
 
 
