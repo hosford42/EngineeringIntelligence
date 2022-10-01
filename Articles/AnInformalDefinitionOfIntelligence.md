@@ -307,3 +307,114 @@ a machine intelligence, nor in how respectfully we treat the machine
 intelligence. What we need to be careful about is how well we encode
 our desires as goals or rewards when we formulate the machine 
 intelligence's will.
+
+
+## Putting It Together
+
+So now that we have a high-level overview, let's get specific and
+lay out the actual requirements for a system to be considered
+intelligent.
+
+
+### Requirements
+
+
+* **Environmental Embedding**:
+  * The system exists within a larger environment. 
+  * The environment has structure, state, and consistency.
+  * Data about the structure and state of the environment can be 
+    gathered through sensors.
+  * Some aspects of the environment's state and structure are hidden 
+    and cannot be directly sensed.
+  * Sensors can be unreliable.
+  * Any aspect of the structure or state of the environment that 
+    cannot directly or indirectly affect the readings of any sensor 
+    at any point in time is irrelevant.
+  * Environments that differ only in irrelevant aspects of their
+    state or structure are considered functionally equivalent.
+
+
+* **Agent-hood**:
+  * The system has internal state and structure. 
+  * One or more "sensors" (input sources) measure the environment and 
+    provide data to the system. (We will lump language prompts and 
+    other digital media under this, as well. This means that a chatbot 
+    with no other awareness of the world outside the chat prompt is 
+    still in some respect sensing its environment.)
+  * One or more "motors" (output sinks) operate on the environment in
+    a manner dependent upon signals originating from the system.
+    (Again, language displays and other digital media which can act as
+    destinations for data suffice to meet this requirement.)
+  * The internal state and structure of the agent are dependent only
+    upon its previous state, structure, sensor readings, and motor
+    signals. (There may also be unintended external environmental 
+    factors which may affect the functioning of an embodied agent.
+    These are distinguished from sensors only by the fact that they
+    are *unintentional* sources of influence on the behavior of the
+    system. They should be treated as noise or interference and are
+    otherwise ignored for the purposes of this discussion.)
+  * The signals to the "motors" are dependent only upon the agent's
+    internal state and structure.
+  * The system interacts repeatedly or continuously with the
+    environment, receiving sensor readings, updating its internal
+    state & structure, and generating motor signals, in a sequential
+    manner.
+
+
+* **Observational Intelligence**:
+  * The internal state and structure of the agent includes a 
+    representation (a.k.a. a "mental model") of the state and 
+    structure of the environment.
+  * The agent continually updates its mental model, making use 
+    of incoming sensor data, in an attempt to synchronize the
+    mental model with the actual state and structure of the
+    environment.
+  * The agent measures its effectiveness in synchronizing its
+    mental model to the environment by making predictions about
+    future sensor data and observing how closely the predictions
+    match the actual measurements. This should happen at multiple
+    levels -- or even a continuum -- of abstraction. (For example,
+    we may predict that a horse may buck, which is abstract, and
+    also what that act will look like, which is concrete. We may
+    be wrong about what it looks like but still be right about
+    the event's occurrence.)
+  * The mental model can be queried for predictions regarding the 
+    expected outcomes of hypothetical sequences of model constraints 
+    at any level of abstraction the agent operates at.
+  * For agents that are language-capable, the mental model must
+    consist at least in part of language-level abstractions, i.e.
+    things (nouns), events (verbs), properties (adjectives/adverbs), 
+    relationships (prepositions), and other conceptual elements
+    that correspond to language elements. (Alternatively, it may 
+    be possible for the mental model to be composed of other types
+    of data such as numerical vectors, so long as a consistent
+    mapping between some portion of its representation and that of 
+    language-level abstractions is possible.)
+
+
+* **Active Intelligence**:
+  * The agent includes some fixed internal structure (the "will" of
+    the agent) which generates goals, rewards, or some other form of 
+    preference specifications in response to the agent's internal 
+    state and structure.
+  * The agent queries its mental model to identify behavioral paths
+    or policies, in advance, which in some way optimize its ability 
+    to reach its goals, receive its rewards, or otherwise match its
+    future experiences to its preferences.
+  * The agent repeatedly generates, selects, and acts upon these
+    behavioral paths or policies to realize its will.
+
+
+An agent which meets all of these requirements is considered an
+intelligent agent. An agent which meets all of these requirements
+with the exception of one or more of the active intelligence 
+requirements is considered an observationally intelligent agent.
+
+These requirements represent the bare minimum for a system to be
+considered intelligent. In [Alternative Definitions of Intelligence]
+we will take a look at other expectations of intelligence, some of
+which it may be possible to define more concretely within this 
+minimal framework.
+
+
+[Alternative Definitions of Intelligence]: AlternativeDefinitionsOfIntelligence.md
