@@ -29,6 +29,10 @@
   distortions], [cognitive biases], etc. that human beings can run into.
   (Not all of these will apply to a machine intelligence, of course,
   unless we intentionally design it to emulate us as closely as possible.)
+* **Knowledge Graphs as Mental Models**: How to implement a mental model
+  as a knowledge graph. Connect this to the existing (currently closed
+  source, but expected to be open-sourced) NLU project I've been working
+  on as a POC in my spare time over the last decade or so.
 
 
 [correspondence theory of truth (or knowledge)]: 
