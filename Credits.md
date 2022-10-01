@@ -11,3 +11,5 @@ contributed to the end of this list.
   Aaron Hosford, 2022-09-26
 * Composed "Alternative Definitions of Intelligence":
   Aaron Hosford, 2022-09-29
+* Added new section to "An Informal Definition of Intelligence":
+  Aaron Hosford, 2022-09-30
