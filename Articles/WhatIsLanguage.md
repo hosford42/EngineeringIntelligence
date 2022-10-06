@@ -97,16 +97,16 @@ and other intelligent species we share this planet with, or with
 extra-terrestrials we might someday encounter. Our communication
 with each other is significantly eased by the fact that we have
 very similar mental structures and experiences, and yet even a
-small difference in our neural wiring diagrams can result in what's
-called the [double empathy problem] in the autistic community.
+small difference in our neural wiring diagrams can result in what
+is called, in the autistic community, the [double empathy problem].
 With other species, this difference in the conceptualization,
 structure, and linguistic encoding of our mental models may 
 easily be so vast that it becomes impossible to ever understand 
 each other on a level approaching what we have among ourselves, 
 even if the two species are of similar levels of mental
 complexity. This is not to say that inter-species communication
-is not worth the effort, but that we should not approach the
-problem minus the expectation of someday creating a magical
+is not worth the effort, but that we should approach the
+problem *minus* the expectation of someday creating a magical
 Star Trek-style translator. 
 
 ## Human-Machine Communication
