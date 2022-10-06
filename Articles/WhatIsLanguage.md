@@ -126,7 +126,7 @@ mental models, the elements and structure of our languages should
 offer us strong clues as to how human beings represent our world in 
 our mental models. These clues may not tell us *everything* we need 
 to know, as it's possible to imagine things we *can't* communicate 
-effectively with language(qualia being a glaring example), but they 
+effectively with language (qualia being a glaring example), but they 
 will still provide an enormous level of insight into how our minds 
 work.
 
