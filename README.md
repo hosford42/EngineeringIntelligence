@@ -57,10 +57,15 @@ that it works safely, effectively, and as intended.
 
 
 ### Articles
-* [An Informal Definition of Intelligence](Articles/AnInformalDefinitionOfIntelligence.md)
-* [Alternative Definitions of Intelligence](Articles/AlternativeDefinitionsOfIntelligence.md)
-
-
+* [An Informal Definition of Intelligence](Articles/AnInformalDefinitionOfIntelligence.md):
+  An informal discussion of the nature of intelligence, culminating in some
+  high-level design requirements for building intelligent systems.
+* [Alternative Definitions of Intelligence](Articles/AlternativeDefinitionsOfIntelligence.md):
+  A list of alternative definitions of intelligence, distilling them as
+  high-level design requirements, which are then grouped according to theme.
+* [What is Language](Articles/WhatIsLanguage.md): A look at the insights we can 
+  gain about natural language by looking at it from the perspective of our
+  definition of intelligence.
 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
