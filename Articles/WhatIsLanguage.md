@@ -3,6 +3,10 @@
 
 # What is Language?
 
+*by Aaron Hosford*
+
+## Language and Intelligence
+
 It seems superficially obvious to most people that language and intelligence
 are closely intertwined. A large vocabulary and the ability to eloquently
 communicate are often treated as strong signals of intelligence. Looking at
