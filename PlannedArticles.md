@@ -29,6 +29,10 @@
   distortions], [cognitive biases], etc. that human beings can run into.
   (Not all of these will apply to a machine intelligence, of course,
   unless we intentionally design it to emulate us as closely as possible.)
+* **The Ontological Assumptions of Natural Language and Object-Oriented
+  Programming**: An examination of the ontological assumptions that
+  underlie natural language, how they relate to those of OOP, and what
+  they tell us about the way human beings understand the world.
 * **Knowledge Graphs as Mental Models**: How to implement a mental model
   as a knowledge graph. Connect this to the existing (currently closed
   source, but expected to be open-sourced) NLU project I've been working
